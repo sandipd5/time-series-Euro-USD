@@ -8,9 +8,8 @@ Data was scraped from Yahoo Finance using the yfinance Python library. The datas
 
 Data Preprocessing:
 
-The data preprocessing steps include:
-
 Handling missing values
+
 Converting date columns to datetime format
 
 
